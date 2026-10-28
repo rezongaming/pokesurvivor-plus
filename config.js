@@ -13,12 +13,13 @@
  * It must look like this (keep the quotes and the commas):
  *
  * window.PS_FIREBASE = {
- apiKey: "AIzaSyBq73OiL25c4bUMLHb9UZsY7Rc90yhMOpI",
-  authDomain: "pokesurvivorgame.firebaseapp.com",
-  projectId: "pokesurvivorgame",
-  storageBucket: "pokesurvivorgame.firebasestorage.app",
-  messagingSenderId: "1066984884554",
-  appId: "1:1066984884554:web:47bbc0e82e3e1b04ed59b3"
-  databaseURL: 'https://pokesurvivorgame-default-rtdb.asia-southeast1.firebasedatabase.app'
-};
-
+ *   apiKey: 'AIza...',
+ *   authDomain: 'your-project.firebaseapp.com',
+ *   projectId: 'your-project',
+ *   storageBucket: 'your-project.firebasestorage.app',
+ *   messagingSenderId: '1234567890',
+ *   appId: '1:1234567890:web:abc123',
+ *   databaseURL: 'https://your-project-default-rtdb.europe-west1.firebasedatabase.app'
+ * };
+ */
+window.PS_FIREBASE = null;
